@@ -1,0 +1,2 @@
+this is file from master
+i hate stash, not anymore
